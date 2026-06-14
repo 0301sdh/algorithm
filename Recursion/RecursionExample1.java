@@ -1,3 +1,4 @@
+package Recursion;
 public class RecursionExample1 {
 
     // 팩토리얼
