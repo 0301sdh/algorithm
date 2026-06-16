@@ -49,13 +49,13 @@ public class RecursionExample2 {
     }
 
     //데이터파일로 부터 n개의 정수 읽어오기
-    public static void readFrom(int n, int[] data, Scanner in){
+   /* public static void readFrom(int n, int[] data, Scanner in){
         if(n==0)
             return;
         else{
             readFrom(n-1,data,in);
             data[n-1] = in.nextInt();
         }
-    }
+    } */
     
 }

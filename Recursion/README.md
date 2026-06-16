@@ -41,6 +41,10 @@
 | `findMax1()` | 최대값 찾기 (분할정복) | O(n) |
 | `binarySearch()` | 이진검색 (정렬된 데이터) | O(log n) |
 
+
++**Maze.java** - 26/6/16 미로 탐색 (백트래킹) Recursion 으로 작성 
+
+
 ## Goal
 
 - 알고리즘 이해
