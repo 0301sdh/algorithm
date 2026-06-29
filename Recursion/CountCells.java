@@ -13,7 +13,7 @@ public class CountCells {
             { 0, 1, 1, 0, 0, 1, 1, 1 }
     };
 
-    // private static int BACKGROUND_COLOR = 0;
+    // private static int BACKGROUND_COLOR = 0; //not used
     private static int IMAGE_COLOR = 1;
     private static int ALREADY_COUNTED = 2;
 
