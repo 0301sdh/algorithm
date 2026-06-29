@@ -29,6 +29,7 @@ public class QuickSort {
         return i + 1;
     }
 
+    // no worst case instance, but worst case execution
     private static int partitionRandom(int[] A, int low, int high) {
 
         int pivotIndex = low + rand.nextInt(high - low + 1);
